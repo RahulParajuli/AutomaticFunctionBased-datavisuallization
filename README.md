@@ -18,5 +18,6 @@ User need to run the shell in notebook and select operations as directed by the 
 2. Quick experiment on data set using histogram, barplot and various visualization technique without hardcoding.
 3. Easy to use.
 
-# Contribution required!!!
+<!-- # Contribution required!!!
 If anybody willing to contribute in this project for automatic data visualization, email me at rahul.parajuli27@gmail.com
+ -->
