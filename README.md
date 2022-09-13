@@ -1,6 +1,13 @@
 # Automatic Datavisuallization
 Just run the functions to implement automatic data visualization in notebook.
 
+## how to use this application
+1. Clone the repository - (https://github.com/RahulParajuli/AutomaticFunctionBased-datavisuallization.git)
+2. Open in notebook or your favourite IDE.
+3. Run all the shell.
+4. Enter filepath of the desired file.
+5. Follow the operations.
+
 ## Actions required
 User need to run the shell in notebook and select operations as directed by the application.
 1. User can select their own dataset from a local path.
